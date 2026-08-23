@@ -1,2 +1,25 @@
 # Mitchell Duct Cleaning
-HVAC services in Ontario.
+
+> Mitchell Duct Cleaning is a local HVAC company serving Mitchell, Perth, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 348-4027  |  Email: contact@mitchellductcleaning.ca  |  Website: https://mitchellductcleaning.ca
+
+## Key pages
+
+- [Home](https://mitchellductcleaning.ca/): Mitchell Duct Cleaning homepage with service overview and FAQ
+- [About](https://mitchellductcleaning.ca/about/): About the company and service area
+- [Contact](https://mitchellductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://mitchellductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Mitchell, Ontario
+- [Dryer Vent Cleaning](https://mitchellductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Mitchell, Ontario
+- [Furnace & AC Cleaning](https://mitchellductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Mitchell, Ontario
+- [HRV & Ventilation Cleaning](https://mitchellductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Mitchell, Ontario
+- [Duct Sanitizing & Deodorizing](https://mitchellductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Mitchell, Ontario
+- [Duct Sealing & Repair](https://mitchellductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Mitchell, Ontario
+- [Commercial Duct Cleaning](https://mitchellductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Mitchell, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Mitchell are answered on the homepage.
